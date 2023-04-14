@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandrocanmart
 - 👀 I’m interested in finance and banking
-- 🌱 I’m currently learning Data science
+- 🌱 I’m currently studying Data science and Business Informatics at the University of Pisa
 - 📫 How to reach me: write me on cantasanomartinosandro@gmail.com
 
 <!---
