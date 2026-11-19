@@ -3,7 +3,7 @@
 - 🌱 Half economist, half developer.
         Bachelor degree in Business strategy at the University of Basilicata(IT)
         Master degree in Data science and Business Informatics at the University of Pisa(IT)
-- ✨ I'm currently working as a Data Engineer in Rome.
+- ✨ I'm currently working as a Data Engineer in Turin.
 - 📫 How to reach me: write me on cantasanomartinosandro@gmail.com or mex me on social network like https://www.linkedin.com/in/sandrocantasanomartino/
 
 <!---
